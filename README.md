@@ -72,9 +72,11 @@ O design é minimalista e fácil de usar, com foco na simplicidade.
 ## 1. **Tela Principal**
 Na tela principal, o usuário tem a opção de adicionar informações como: modelo do veículo, placa do veículo, distância, consumo médio e preço do combustível e calcular os litros necessários e o custo da viagem atráves de um botão.
 
-
 <img src="https://github.com/user-attachments/assets/d0486084-bb79-4332-9295-678e38472716" width="260" height="500"/>
 
+# 🧰 APK do APP 
+
+<a href="https://github.com/LaurenAzevedo/Calculadora-de-Consumo-de-Combust-vel/blob/main/carro.apk"> Download APK </a>
 
 # 📄 Licença
 
